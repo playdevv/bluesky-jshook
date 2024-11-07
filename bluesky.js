@@ -5,9 +5,9 @@
 * It hooks into HTTP responses in the React Native NetworkingModule to log
 * request and response data, and creates a cloned response body.
 *
-* GitHub: https://github.com/vendeta1605/bluesky-jshook
+* GitHub: https://github.com/playdevv/bluesky-jshook
 * License: MIT
-* Author: Vendeta1605
+* Author: playdevv
 */
 
 XposedHelpers.findAndHookMethod(
